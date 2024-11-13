@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1BF23E6-66E4-4B53-B97A-22A5028CF1F4}|Program.vcxproj|C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D1BF23E6-66E4-4B53-B97A-22A5028CF1F4}|Program.vcxproj|C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D1BF23E6-66E4-4B53-B97A-22A5028CF1F4}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1ECCB19-4054-4867-BAAC-8450BD4E4FBF}|..\\Class1th\\Class1th.vcxproj|C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Class1th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +23,27 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Program\\Source.c",
+              "ToolTip": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-12T09:30:22.166Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Class1th\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class1th\\Source.c",
+              "ToolTip": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Class1th\\Source.c",
+              "RelativeToolTip": "..\\Class1th\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:18:33.752Z",
               "EditorCaption": ""
             }
           ]

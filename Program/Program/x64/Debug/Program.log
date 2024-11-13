@@ -1,3 +1,2 @@
 ﻿  Source.c
-C:\Users\jaeji\OneDrive\바탕 화면\Program\Source.c(5,11): error C2146: 구문 오류: ')'이(가) 'Hallo' 식별자 앞에 없습니다.
-C:\Users\jaeji\OneDrive\바탕 화면\Program\Source.c(5,16): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+  Program.vcxproj -> C:\Users\jaeji\OneDrive\바탕 화면\SBSGameAcademy\Program\x64\Debug\Program.exe
