@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1BF23E6-66E4-4B53-B97A-22A5028CF1F4}|Program.vcxproj|C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D1BF23E6-66E4-4B53-B97A-22A5028CF1F4}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7106265E-98C5-4C97-8D0C-E2FEC097722E}|..\\Class4th\\Class4th.vcxproj|C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Class4th\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,22 +24,10 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAAwIcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-14T17:05:56.641Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Class4th\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class4th\\Source.c",
-              "ToolTip": "C:\\Users\\jaeji\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\SBSGameAcademy\\Class4th\\Source.c",
-              "RelativeToolTip": "..\\Class4th\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-18T09:05:19.594Z"
             }
           ]
         }
