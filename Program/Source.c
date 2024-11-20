@@ -1,63 +1,79 @@
 #include <stdio.h> 
 
-#define SIZE 10;
 void main()
 {
-#pragma region 자료형 변환
-	// 서로 다른 자료형을 가지고 있는 변수끼리
-	// 연산이 이루어질 떄 기존에 지정했던 자료형을
-	// 다른 자료형으로 변환하는 과정입나다.
+#pragma region 반복문
+	// 프로그램 내에서 특정한 작업을 반복적으로
+	// 수행하는 명령문입나다.
 
-#pragma region 압묵적 형변환
-	// 서로 다른 자료형으로 연산이 이루어질 떄 자료형의
-	// 크기가 큰자료형으로 변환하는 과정입니다.
-
-
-	 int integer = 10;
-	 int decimal = 6.5f;
+#pragma region 증강 연산자
+	// 피연산자를 하나씩 증가시키거나 감소시킬때
+	// 사용하는 연산자입니다.
 	
-	 printf("integer 변수와 decimal 변수를 연산한 결과 : %f", integer + decimal);
+	// int x = 0;
+	// 
+	// int vectorX = ++x;
+	// 
+	// printf("전위 증가한 x의 값 : %d\n", x);
+	// printf("vectorX의 값 : %d\n", vectorX);
+	// 
+	// vectorX = --x;
+	// 
+	// printf("전위 감소한 x의 값 : %d\n", x);
+	// printf("vectorX의 값 : %d\n", vectorX);
 
-	// 표현 범위가 작은 데이터에 표현범위가 큰 데이터를 
-	// 저장하게 되면 암묵적으로 데이터 손실이 발생합니다.
+	// 전위 증감 연산자는 변수의 값을 값을 증감시킨 후에	
+	// 연산을 수행합니다.
 
-	integer = decimal;
+	// int y = 0;
+	// int vectorY = y++;
+	// 
+	// printf("후위 증가한 Y의 값 : %d\n", y);
+	// printf("vectorY의 값 : %d\n", vectorY);
+	// 
+	// vectorY = y--;
+	// 
+	// printf("후위 감소한 Y의 값 : %d\n", y);
+	// printf("vectorY의 값 : %d\n", vectorY);
 
-	printf(" integer 변수의 값 : %d\n", integer);
+	// 후위 증감 연산자는 연산을 수행한 다음 변수의
+	// 값을 증감시킵니다.
+#pragma endregion
 
-	// 정수형에서 실수형으로 암묵적 형변환은 가능하지만,
-	// 실수형에서 정수형으로 암묵적 자료형 변환은 불가능합니다.
+#pragma region for문
+	// 초기식을 연산하여 조건식을 결과에 따라 특정한
+	// 횟수만큼 반복하는 반복문입니다.
 
+	// for (int i = 0; i < 5; i++)
+	// {
+	// 	printf("Execute...\n");
+	// }
+
+	// for문의 경우 조건이 끝나는 형태와 반대로 초기식을
+	// 연산하게 되면 조건이 일치하지 않아 계속 반복적으로 
+	// 실행되는 문제가 발생합니다.
 
 #pragma endregion
 
-#pragma region 명시적 형변환
-	// 연산자 이루어지기 전에 사용자가 직접 자료형을 
-	// 변환하는 과정입나다.
+#pragma region while문
+	// 특정 조건을 만족할 떄까지 계속해서 주어진
+	// 명령무을 설명하는 반복문입니다.
+	
+	// int count 1;
+	// 
+	// while (count <= 5)
+	// {
+	// 	printf("%d ", count);
+	// 
+	// 	count++;
+	// }
 
-	int attack = 10;
-	int haelth = 3;
+	// while문의 경우 위에서 아래로 실행되며,
+	// 아래에 있는 명령문의 실헹이 다 끝나면 
+	// 다시 위에 있는 명령문으로 돌아가서 실해합니다.
 
-	float damage = attack / haelth;
-
-	printf("damage 변수의 값 : %f\n", damage);
-
-	// 정수형 변수끼리 연산을 수행하게 되면 정수의 
-	// 결과 값만 가질 수 있습니다.
 
 #pragma endregion
-
-
-#pragma endregion
-
-#pragma region 메크로
-	// 프로그램 내에서 특정한 데이터가 문자열로
-	// 정의되고 처리하는 과정입니다.
-
-	// printf("메크로 SIZE의 값 : %d\n", SIZE);
-
-	// 매크로 경우 자료형이 존재하지 않으므로,
-	// 메모리 공간을 가지고 있지 않습니다.
 
 #pragma endregion
 
